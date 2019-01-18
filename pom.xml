@@ -61,7 +61,7 @@
                         <phase>package</phase>
                         <configuration>
                             <target>
-                                <copy file="target/BetterPotions.jar" tofile="../lib/BetterPotions.jar"/>
+                                <copy file="target/MorePotions.jar" tofile="C:\Program Files (x86)\Steam\steamapps\common\SlayTheSpire\mods\MorePotions.jar"/>
                             </target>
                         </configuration>
                         <goals>
