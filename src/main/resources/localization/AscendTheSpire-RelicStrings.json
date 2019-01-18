@@ -1,0 +1,17 @@
+{
+  "ATS:BottleFactory": {
+    "NAME": "Bottle Factory",
+    "DESCRIPTIONS": [
+      "Receive a new potion slot every #b",
+      " floors."
+    ]
+  }
+,
+  "ATS:AlchemicalLiquidizer": {
+    "NAME": "Alchemical Liquidizer",
+    "DESCRIPTIONS": [
+      "Whenever you gain gold, receive a potion whose rarity is proportional to the amount of gold gained."
+    ]
+  }
+
+}

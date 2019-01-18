@@ -1,0 +1,11 @@
+{
+  "modid": "ascendthespire",
+  "name": "Ascend the Spire",
+  "author_list": ["Kyloman"],
+  "description": "broken mod by a broken human being",
+  "version": "0.0.1",
+  "sts_version": "12-20-2018",
+  "mts_version": "3.6.3",
+  "dependencies": ["basemod"],
+  "update_json": "inserturlhere.com"
+}

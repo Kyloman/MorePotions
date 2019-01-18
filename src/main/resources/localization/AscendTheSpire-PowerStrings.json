@@ -1,0 +1,22 @@
+{
+  "ATS:OmnipresentPower": {
+    "NAME": "Omnipresent",
+    "DESCRIPTIONS": [
+      "You are everywhere. Your next card will play ",
+      " times."
+    ]
+  }
+/*
+,
+  "ATS:ToxicWastePotion": {
+    "NAME": "Toxic Waste",
+    "DESCRIPTIONS": [
+      "Gain #b",
+      " #yStrength and receive #b",
+      " #yPoison."
+    ]
+  }
+
+}
+*/
+}

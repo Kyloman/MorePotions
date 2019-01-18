@@ -1,0 +1,155 @@
+{
+  "ATS:InfernoPotion": {
+    "NAME": "Inferno Potion",
+    "DESCRIPTIONS": [
+      "Deal #b",
+      " damage to an enemy and receive #b",
+      " damage."
+    ]
+  },
+  "ATS:ToxicWastePotion": {
+    "NAME": "Toxic Waste",
+    "DESCRIPTIONS": [
+      "Gain #b",
+      " #yStrength and receive #b",
+      " !M! Poison."
+    ]
+  },
+  "ATS:HotCoffeePotion": {
+    "NAME": "Hot Coffee",
+    "DESCRIPTIONS": [
+      "Gain #b",
+      " #yEnergy and add #b",
+      " burns to your hand."
+    ]
+  },
+  "ATS:EmptyVial": {
+    "NAME": "Empty Vial",
+    "DESCRIPTIONS": [
+      "Add an empty potion slot."
+    ]
+  },
+  "ATS:OmniscienceNectar": {
+    "NAME": "Omniscience Nectar",
+    "DESCRIPTIONS": [
+      "Become a god for a short time. Gain Omniscience."
+    ]
+  },
+  "ATS:OmnipotenceNectar": {
+    "NAME": "Omnipotence Nectar",
+    "DESCRIPTIONS": [
+      "Become a god for a short time. Gain Omnipotence."
+    ]
+  },
+  "ATS:OmnipresenceNectar": {
+    "NAME": "Omnipresence Nectar",
+    "DESCRIPTIONS": [
+      "Become a god for a short time. Gain Omnipresence."
+    ]
+  },
+  "ATS:SmallUnstableElixirPotion": {
+    "NAME": "Small Unstable Elixir",
+    "DESCRIPTIONS": [
+      "I'm afraid of what this might do."
+    ]
+  },
+  "ATS:MediumUnstableElixirPotion": {
+    "NAME": "Medium Unstable Elixir",
+    "DESCRIPTIONS": [
+      "I'm really terrified of what this might do."
+    ]
+  },
+  "ATS:LargeUnstableElixirPotion": {
+    "NAME": "Large Unstable Elixir",
+    "DESCRIPTIONS": [
+      "#bI #bdon't #bwant #bto #bdrink #bthis."
+    ]
+  },
+  "ATS:FlashPotion": {
+    "NAME": "Flash Potion",
+    "DESCRIPTIONS": [
+      "#yStun all enemies for 1 turn."
+    ]
+  },
+  "ATS:PlaguePotion": {
+    "NAME": "Plague Potion",
+    "DESCRIPTIONS": [
+      "Inflict #b",
+      " #yPoison to all enemies and reduce their Strength by 1."
+    ]
+  },
+  //Mini Potions
+  "ATS:StrengthPhial": {
+    "NAME": "Strength Phial",
+    "DESCRIPTIONS": [
+      "Gain #b",
+      " #yStrength."
+    ]
+  },
+    "ATS:DexterityPhial": {
+      "NAME": "Dexterity Phial",
+      "DESCRIPTIONS": [
+        "Gain #b",
+        " #yDexterity."
+      ]
+    },
+  "ATS:EnergyPhial": {
+    "NAME": "Energy Phial",
+    "DESCRIPTIONS": [
+      "Gain #b",
+      " #yEnergy."
+    ]
+  },
+  "ATS:EmberPhial": {
+    "NAME": "Ember Phial",
+    "DESCRIPTIONS": [
+      "Deal #b",
+      " Damage."
+    ]
+  },
+  "ATS:PhailedPhial": {
+    "NAME": "Phailed Phial",
+    "DESCRIPTIONS": [
+      "Whoops. Deal #b",
+      " Damage."
+    ]
+  },
+  "ATS:WeaknessPhial": {
+    "NAME": "Weakness Phial",
+    "DESCRIPTIONS": [
+      "Give an enemy #b",
+      " #yWeakness."
+    ]
+  },
+  "ATS:VulnerabilityPhial": {
+    "NAME": "Vulnerability Phial",
+    "DESCRIPTIONS": [
+      "Give an enemy #b",
+      " #yVulnerable."
+    ]
+  },
+  "ATS:SwiftPhial": {
+    "NAME": "Swift Phial",
+    "DESCRIPTIONS": [
+      "Draw #b",
+      " card."
+    ]
+  },
+  "ATS:LiquidBronzePhial": {
+    "NAME": "LiquidBronzePhial",
+    "DESCRIPTIONS": [
+      "Gain #b",
+      " #yThorns."
+    ]
+  },
+  "ATS:ShinyPhial": {
+    "NAME": "Shiny Phial",
+    "DESCRIPTIONS": [
+      "Gain #b",
+      " #yGold."
+    ]
+  }
+
+
+
+}
